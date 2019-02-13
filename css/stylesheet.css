@@ -3,8 +3,8 @@ nav ul {
   margin-left: auto;
   margin-right: auto;
 	list-style-type: none;
-	background-color: #23ffae;
-	border: 5px solid black;
+	background-color: #b0ff5e;
+	border: 2px solid black;
 	border-radius: 5px;
 	font-family: sans-serif;
 	font-weight: bold;
@@ -28,5 +28,15 @@ ul {
 }
 
 h1 {
-  text-shadow: 2px 2px 5px gray;
+  color: yellow;
+  text-shadow: 2px 2px 5px black;
+}
+
+h2 {
+  color: #010c66;
+  text-shadow: 2px 2px 5px white;
+}
+
+body {
+    background-image: linear-gradient(-90deg, #83ff00, #00d0ff);
 }
