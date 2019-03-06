@@ -45,17 +45,21 @@ ul {
 }
 
 h1 {
-  color: yellow;
-  text-shadow: 2px 2px 5px black;
+  color: rgb(255, 255, 255);
 }
 
 h2 {
-  color: #010c66;
-  text-shadow: 2px 2px 5px white;
+  color: rgb(255, 255, 255);
+}
+p {
+  color: rgb(255, 255, 255);
+}
+a {
+  color: rgb(255, 255, 255);
 }
 
 #background {
-    background-image: url("BG.jpg");
+    background-image: url(../BG.jpg);
     background-size: cover;
     width: 100%;
     height: 100%;
