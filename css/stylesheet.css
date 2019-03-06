@@ -54,7 +54,7 @@ h2 {
   text-shadow: 2px 2px 5px white;
 }
 
-body {
+#background {
     background-image: url("BG.jpg");
     background-size: cover;
     width: 100%;
