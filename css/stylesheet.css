@@ -20,7 +20,7 @@ nav ul {
   margin-left: auto;
   margin-right: auto;
 	list-style-type: none;
-	background-color: #b0ff5e;
+	background-color: rgb(168, 39, 0, 0.7);
 	border: 2px solid black;
 	border-radius: 5px;
 	font-family: sans-serif;
@@ -55,7 +55,7 @@ p {
   color: rgb(255, 255, 255);
 }
 a {
-  color: rgb(255, 255, 255);
+  color: rgb(206, 206, 206);
 }
 
 #background {
