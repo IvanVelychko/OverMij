@@ -55,7 +55,7 @@ h2 {
 }
 
 body {
-    background-image: linear-gradient(-90deg, #83ff00, #00d0ff);
+    background-image: url("BG.jpg");
 }
 
 table {
@@ -71,5 +71,5 @@ td, th {
 }
 
 tr {
-  background-color: #dddddd;
+  background-color: #d8ffa3;
 }
