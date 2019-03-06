@@ -1,7 +1,5 @@
 #content {
-    background-image: linear-gradient(-90deg, #83ff00, #00d0ff);
-    opacity: 0.5;
-    filter: alpha(opacity=50);
+    background-color: rgb(4, 44, 204, 0.5);
     border: 5px solid black;
     border-radius: 16px;
     font-family: sans-serif;
