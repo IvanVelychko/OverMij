@@ -1,3 +1,20 @@
+#content {
+    background-image: linear-gradient(-90deg, #83ff00, #00d0ff);
+    border: 5px solid black;
+    border-radius: 16px;
+    font-family: sans-serif;
+    margin-top: 100px;
+    margin-left: 1px;
+    margin-right: auto;
+    max-width: 1024px;
+    min-width: 256px;
+    padding-top: 8px;
+    padding-bottom: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+
+
 nav ul {
   display: table;
   margin-left: auto;
